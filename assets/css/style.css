@@ -89,12 +89,11 @@ figure img {
     width: 40%;
 }
 
-figure h2 {
+figure h3 {
     text-decoration: underline;
 }
 
 main form {
-    /* border: 5px solid rgb(213, 141, 18); */
     border: 5px solid rgb(131, 110, 74);
     border-radius: 25%;
     background-color: rgb(216, 186, 136);
