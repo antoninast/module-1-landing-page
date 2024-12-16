@@ -4,37 +4,40 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assets/css/style.css">
-    <title>Pizza Hut</title>
+    <title>Pizza Hub</title>
 </head>
 <body>
     <header>
-        <h2>The <span class="pizza-hub">Pizza Hub</span> Company</h2>
         <nav>
             <ul>
-                <li>Menu</li>
-                <li>About us</li>
-                <li>
-                    <a href="#contact-form">Contact us</a>
-                </li>
+                <li><a href="https://github.com/antoninast">GitHub</a></li>
+                <li><a href="">Portfolio</a></li>
+                <li><a href="#contact-form">Contact us</a></li>
             </ul>
         </nav>
     </header>
     <main>
-        <h1 class="landing-photo">
-            Pizza for your special moments!
-        </h1>
-        <img alt="pizza image" src="./assets/images/pizza-1.jpg">
-        <img alt="pizza image" src="./assets/images/pizza-2.jpg">
-        <img alt="pizza image" src="./assets/images/pizza-3.jpg">
-        <form class="contact-form" action="contact-form">
-            <label class="first-name" for="fname">First Name</label>
-            <input class="first-name" type="text" id="fname" name="firstname" placeholder="Your name...">
-            <label class="last-name" for="lname">Last Name</label>
-            <input class="last-name" type="text" id="lname" name="lastname" placeholder="Your last name...">
-            <label class="email" for="email">E-mail</label>
-            <input type="text" id="email" name="email" placeholder="Your Email...">
-            <button class="send-button">Send</button>
-        </form>
+        <h1>The <span class="pizza-hub">Pizza Hub</span> Company</h1>
+        <h2>Pizza Making Class</h2>
+        <div class="pizza-images">
+            <img class="float-left" alt="pizza image" src="./assets/images/pizza-1.jpg">
+            <img class="float-right" alt="pizza image" src="./assets/images/pizza-2.jpg">
+            <img class="float-left" alt="pizza image" src="./assets/images/pizza-3.jpg">
+        </div>
+        <div class="signup-form">
+            <h3>Craving a pizza of your own creation?</h3>
+            <h4>Sign up for our next class</h4>
+            <form class="contact-form" action="contact-form">
+                <label class="first-name" for="fname">First Name</label>
+                <input class="first-name" type="text" id="fname" name="firstname" placeholder="Your name...">
+                <label class="last-name" for="lname">Last Name</label>
+                <input class="last-name" type="text" id="lname" name="lastname" placeholder="Your last name...">
+                <label class="email" for="email">E-mail</label>
+                <input type="text" id="email" name="email" placeholder="Your Email...">
+                <button class="send-button">Send</button>
+            </form>
+        </div>
+
     </main>
     <footer>Antonina Stancheva © 2024</footer>
 </body>
