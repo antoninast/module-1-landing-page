@@ -1,4 +1,4 @@
-# miniproject
+# Module 1 Mini-Project: Landing Page
 
 You can access the website here: https://antoninast.github.io/miniproject/
 
