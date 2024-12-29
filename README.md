@@ -1,6 +1,6 @@
 # Module 1 Mini-Project: Landing Page
 
-You can access the website here: https://antoninast.github.io/miniproject/
+You can access the website here: [https://antoninast.github.io/module-1-landing-page/](https://antoninast.github.io/module-1-landing-page/)
 
 This is a website of "The Pizza Hub Company". This is a pizza making cooking class. On the nav bar there is a quick access to my GitHub profile, this repository and short cut to the contact form. Bellow are some images of pizzas, that our students have cooked. At the bottom for the website you will see the contact form where you can sign up for our next cooking class.
 
